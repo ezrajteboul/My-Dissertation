@@ -1,0 +1,106 @@
+PWD C:/Users/jerem/Google Drive/My Dissertation
+INPUT c:/texlive/2017/texmf.cnf
+INPUT c:/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/jerem/Google Drive/My Dissertation/rpithes.tex
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.log
+INPUT C:\Users\jerem\Google Drive\My Dissertation/thesis.cls
+INPUT C:\Users\jerem\Google Drive\My Dissertation/thesis.cls
+INPUT c:/texlive/2017/texmf-dist/tex/latex/base/report.cls
+INPUT c:/texlive/2017/texmf-dist/tex/latex/base/report.cls
+INPUT c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.tex
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.pdf
+INPUT c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.toc
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.toc
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.toc
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lot
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lot
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lot
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lof
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lof
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.lof
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.tex
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.tex
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.tex
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT c:/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.tex
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.bbl
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.bbl
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.tex
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiack.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpichap2.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpibib.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux
+INPUT C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb

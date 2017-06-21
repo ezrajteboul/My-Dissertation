@@ -1,0 +1,229 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.6.20)  21 JUN 2017 07:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"c:/Users/jerem/Google Drive/My Dissertation/rpithes.tex"
+(c:/Users/jerem/Google Drive/My Dissertation/rpithes.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(C:\Users\jerem\Google Drive\My Dissertation/thesis.cls
+Document Class: thesis 2009/01/06 Rensselaer Polytechnic Institute
+(c:/texlive/2017/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@firstchapter=\count88
+\numcomm=\count89
+\numcount=\count90
+) (c:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(c:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {\bfseries #1:~~#2}\ifdim \wd \@tempboxa >\hsize {\bfseries 
+#1:~~#2}\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempbox
+a \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count91
+) (C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux (C:\Users\jerem\Goog
+le Drive\My Dissertation/rpititle-phd.aux) (C:\Users\jerem\Google Drive\My Diss
+ertation/rpiack.aux) (C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux) (
+C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux) (C:\Users\jerem\Googl
+e Drive\My Dissertation/rpichap2.aux) (C:\Users\jerem\Google Drive\My Dissertat
+ion/rpibib.aux) (C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux))
+\openout1 = `rpithes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `rpititle-phd.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpititle-phd.tex [1
+
+
+{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (C:\Users\jerem
+\Google Drive\My Dissertation/rpithes.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `rpithes.toc'.
+
+[2
+
+] (C:\Users\jerem\Google Drive\My Dissertation/rpithes.lot)
+\tf@lot=\write4
+\openout4 = `rpithes.lot'.
+
+[3
+
+] (C:\Users\jerem\Google Drive\My Dissertation/rpithes.lof)
+\tf@lof=\write5
+\openout5 = `rpithes.lof'.
+
+) [4
+
+]
+\openout2 = `rpiack.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpiack.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+ []
+
+) [5
+
+
+
+]
+\openout2 = `rpiabs.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpiabs.tex) [6
+
+
+
+]
+\openout2 = `rpichap1.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpichap1.tex
+CHAPTER 1.
+
+LaTeX Warning: Citation `wright2002racism' on page 1 undefined on input line 12
+.
+
+
+LaTeX Warning: Citation `thisbook' on page 1 undefined on input line 32.
+
+
+LaTeX Warning: Citation `thisbook' on page 1 undefined on input line 32.
+
+[1
+
+
+
+]
+
+LaTeX Warning: Citation `anotherbook' on page 2 undefined on input line 56.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
+) [2]
+\openout2 = `rpichap2.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpichap2.tex
+CHAPTER 2.
+
+LaTeX Warning: Citation `yetanotherbook' on page 3 undefined on input line 51.
+
+[3
+
+
+
+]) [4]
+\openout2 = `rpibib.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpibib.tex (C:\Users\jerem\Google 
+Drive\My Dissertation/rpithes.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)) [5
+
+
+
+]
+\openout2 = `rpiapp.aux'.
+
+(C:\Users\jerem\Google Drive\My Dissertation/rpiapp.tex
+APPENDIX A.
+[6
+
+
+
+]
+APPENDIX B.
+) [7
+
+] (C:\Users\jerem\Google Drive\My Dissertation/rpithes.aux (C:\Users\jerem\Goog
+le Drive\My Dissertation/rpititle-phd.aux) (C:\Users\jerem\Google Drive\My Diss
+ertation/rpiack.aux) (C:\Users\jerem\Google Drive\My Dissertation/rpiabs.aux) (
+C:\Users\jerem\Google Drive\My Dissertation/rpichap1.aux) (C:\Users\jerem\Googl
+e Drive\My Dissertation/rpichap2.aux) (C:\Users\jerem\Google Drive\My Dissertat
+ion/rpibib.aux) (C:\Users\jerem\Google Drive\My Dissertation/rpiapp.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1512 strings out of 492995
+ 26882 string characters out of 6136417
+ 88266 words of memory out of 5000000
+ 5062 multiletter control sequences out of 15000+600000
+ 7809 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,8n,41p,367b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmtt12.pfb>
+Output written on "C:\Users\jerem\Google Drive\My Dissertation/rpithes.pdf" (13
+ pages, 85006 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

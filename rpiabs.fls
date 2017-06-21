@@ -1,0 +1,6 @@
+PWD C:/Users/jerem/Google Drive/My Dissertation
+INPUT c:/texlive/2017/texmf.cnf
+INPUT c:/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/jerem/Google Drive/My Dissertation/rpiabs.tex
+OUTPUT C:\Users\jerem\Google Drive\My Dissertation/rpiabs.log
